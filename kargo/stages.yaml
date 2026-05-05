@@ -14,7 +14,7 @@ spec:
     spec:
       vars:
       - name: gitRepo
-        value: https://github.com/Nyati1/kargo-quickstart
+        value: https://github.com/nyati1/kargo-quickstart
       - name: imageRepo
         value: ghcr.io/nyati1/guestbook
       steps:
@@ -75,7 +75,7 @@ spec:
     spec:
       vars:
       - name: gitRepo
-        value: https://github.com/Nyati1/kargo-quickstart
+        value: https://github.com/nyati1/kargo-quickstart
       - name: imageRepo
         value: ghcr.io/nyati1/guestbook
       steps:
@@ -136,7 +136,7 @@ spec:
     spec:
       vars:
       - name: gitRepo
-        value: https://github.com/Nyati1/kargo-quickstart
+        value: https://github.com/nyati1/kargo-quickstart
       - name: imageRepo
         value: ghcr.io/nyati1/guestbook
       steps:

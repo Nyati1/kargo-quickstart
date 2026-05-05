@@ -7,4 +7,5 @@ spec:
   subscriptions:
   - image:
       repoURL: ghcr.io/nyati1/guestbook
+      semverConstraint: ^v0.0.1  
       discoveryLimit: 5
