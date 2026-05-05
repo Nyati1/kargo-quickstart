@@ -7,6 +7,6 @@ resources:
 namespace: guestbook-simple-dev
 
 images:
-- name: ghcr.io/Nyati1/guestbook
-  newName: ghcr.io/Nyati1/guestbook
+- name: ghcr.io/nyati1/guestbook
+  newName: ghcr.io/nyati1/guestbook
   newTag: v0.0.1

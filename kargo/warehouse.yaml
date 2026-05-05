@@ -6,5 +6,5 @@ metadata:
 spec:
   subscriptions:
   - image:
-      repoURL: ghcr.io/Nyati1/guestbook
+      repoURL: ghcr.io/nyati1/guestbook
       discoveryLimit: 5

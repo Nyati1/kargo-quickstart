@@ -10,11 +10,11 @@ spec:
       app: guestbook-simple
   template:
     metadata:
-      labels:
+      labels
         app: guestbook-simple
     spec:
       containers:
-      - image: ghcr.io/Nyati1/guestbook:latest
+      - image: ghcr.io/nyati1/guestbook:latest
         name: guestbook-simple
         ports:
         - name: http
